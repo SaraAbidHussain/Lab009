@@ -1,0 +1,14 @@
+.first-div{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+#para1{
+
+    padding-top: 80px;
+}
